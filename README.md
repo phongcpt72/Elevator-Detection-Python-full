@@ -10,9 +10,11 @@
 + Apply Low Pass Filter (butter worth filter: order 2, sample rate 25Hz and cut-off frequency 1.5Hz)  
 
 3. Features Extraction, Algorithm and Method 
+
 3.1 Feature Extraction 
 + Mean 
 + Difference timestamp between Min – Max of Z axis Acceleration of Earth’s gravity 
+
 3.2 Algorithm 
 + Dynamic time warping 
 + Linear Regression
